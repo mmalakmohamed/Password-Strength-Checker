@@ -63,4 +63,4 @@ Screenshots of the test results are also included in this repository.
 
 ## Internship
 
-This project was developed as part of my cybersecurity internship at **DecoLabs**.
+This project was developed as part of my cybersecurity internship at **DecodeLabs**.
