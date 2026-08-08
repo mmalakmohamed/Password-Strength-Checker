@@ -1,0 +1,17 @@
+PASSWORD STRENGTH CHECKER - TEST CASES
+
+Test 1
+Input: hello
+Expected Result: Invalid / Weak
+
+Test 2
+Input: helloooo
+Expected Result: Valid / Weak
+
+Test 3
+Input: Hello123
+Expected Result: Valid / Medium
+
+Test 4
+Input: Hello@1234567
+Expected Result: Valid / Strong
